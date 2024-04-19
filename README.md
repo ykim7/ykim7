@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+
 # Hello! I'm Yujin Kim!
 
 I am a software developer who enjoys music and puzzles. In Korea, I regularly performed on the streets or in concert venues with my friends. I also love all kinds of math puzzles, like Fill-A-Pix, Sudoku, and Rummikub.
@@ -155,20 +157,12 @@ I am a software developer who enjoys music and puzzles. In Korea, I regularly pe
 ## 📊 GitHub Stats:
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=jekiquin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="My Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ykim7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="My Stats" />
 </div>
 <div align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jekiquin&theme=tokyonight&hide_border=false" alt="Other Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykim7&theme=tokyonight&hide_border=false" alt="Other Stats" />
 </div>
 
-### ✍️ Random Dev Quote
 
-<div align=center>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
-</div>
 
-<!-- ### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px" /> -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90)
