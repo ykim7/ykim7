@@ -1,6 +1,6 @@
 # Hello! I'm Yujin Kim!
 
-As a Full Stack Developer specializing in Front End Development, I'm constantly in awe of the ever-evolving world of programming. With a deep understanding of JavaScript/TypeScript, I'm always eager to expand my horizons and take on new challenges. For me, the thrill of coding lies in its complexity and the satisfaction of overcoming hurdles.
+I am a software developer who enjoys music and puzzles. In Korea, I regularly performed on the streets or in concert venues with my friends. I also love all kinds of math puzzles, like Fill-A-Pix, Sudoku, and Rummikub.
 
 
 <div align="center">
