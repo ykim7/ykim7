@@ -18,8 +18,8 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 
 ## 🌐 My Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerick-iquin/)
-[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)](https://github.com/jekiquin-bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ykimcode/)
+[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)](https://github.com/ykim7)
 
 ## 💡 Projects:
 
