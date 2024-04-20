@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
 # Hello! I'm Yujin Kim!
+I'm a software engineer with a background in math tutoring. I'm used to understanding theories and concepts logically and applying them in practice. I'm interested and passionate about developing helpful software that I can use in real life.
 
-I am a software developer who enjoys music and puzzles. In Korea, I regularly performed on the streets or in concert venues with my friends. I also love all kinds of math puzzles, like Fill-A-Pix, Sudoku, and Rummikub.
+# About me
+
+I am a software developer who enjoys puzzles and music. I love all kinds of math puzzles, like Fill-A-Pix, Sudoku, and Rummikub. Even with puzzles that I've never done before, I like to try new things while learning how to do them. In Korea, I also regularly performed on the streets or in concert venues with my friends. Especially, I like to harmonize, and I like to sing with acoustic accompaniment.
 
 
 <div align="center">
