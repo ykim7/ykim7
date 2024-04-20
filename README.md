@@ -9,9 +9,9 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 
 
 <div align="center">
-    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
-    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
-    <img src="Moose.JPG" alt="Moosey" height="300px" />
+    <img src="img/fillAPix.png" alt="Fill-A-Pix" height="300px" />
+    <img src="img/Rummikub.jpeg" alt="Rummikub" height="300px" />
+    <img src="img/sing.png" alt="singing" height="300px" />
 </div>
 
 
@@ -23,127 +23,43 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 
 ## 💡 Projects:
 
-🔭 I’m currently working on a contract job building a small service implementing Solana Activities
-
-⏸️ Personal projects (currently on pause)
-
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">
         <td width="50%" align="center">
             <h3>TechCave</h3>
         </td>
         <td width="50%" align="center">
-            <h3>Ecoverse2</h3>
+            <h3></h3>
         </td>
     </tr>
     <tr valign="center">
         <td width="50%" align="center">
-            <img src="techcave.png"/>
+            <img src="project/gradP.png"/>
         </td>
         <td width="50%" align="center">
-            <img src="ecoverse.png"/>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%" align="center">
-            <a href="https://github.com/BboxDevs/techcave-be" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a> 
-        </td>
-        <td width="50%" align="center">
-            <a href="https://github.com/jekiquin/ecoverse2-client" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a>
+            
         </td>
     </tr>
     <tr valign="top">
         <td width="50%">
             <p>
-                <strong>Stack:</strong> Express, Typescript, GraphQL, Apollo Server, Prisma, Postgres
+                <strong>Stack:</strong> React, ExpressJS, MySql, MongoDB, Mongoose, BcryptJS, Tailwind, Vercel, Cheerio, Dotenv, Husky, Axios, Reduct, Figma
             </p>
         </td>
         <td width="50%">
             <p>
-                <strong>Stack:</strong> React, Tailwind, Mapbox, Typescript
+               
             </p>
         </td>
     </tr>
     <tr valign="top">
         <td width="50%">
             <p>
-                Techcave is a job matching platform designed for job seekers in the tech industry, providing them with a direct connection to potential employers. The platform is designed to bridge the gap in the hiring process by enabling companies to see a pool of talented candidates and providing job seekers with a way to connect with potential employers. Techcave uses AI algorithms to rank candidates based on their skills, experience, and other factors to help employers quickly find the top talent they need.
+                SenecaCommunity is a unified platform that seamlessly integrates student collaboration, academic resources, and real-time communication within Seneca's educational community. Designed to enhance learning efficiency and community engagement, it serves students, faculty, and staff by centralizing information and fostering an environment of active participation and cooperation.
             </p>
         </td>
         <td width="50%">
-            <p>
-                Ecoverse is a groundbreaking sustainability project that aims to reduce the impact of natural resource extraction by empowering manufacturers to give back to the communities affected by their operations.
-            </p>
-            <p>
-                This project is a rebuild of <a href="https://github.com/BalloonBox-Inc/ecoverse-fe" target="_blank">Ecoverse</a> from BalloonBox
-            </p>
-        </td>
-    </tr>
-</table>
-
-🔥 Portfolio
-
-<table bordercolor="#66b2b2" width="100%">
-    <tr valign="top">
-        <td width="50%" align="center">
-            <h3>Portfolio 2023</h3>
-        </td>
-        <td width="50%" align="center">
-            <h3>Porfolio 2022</h3>
-        </td>
-    </tr>
-    <tr valign="center">
-        <td width="50%" align="center">
-            <img src="portfolio2.png"/>
-        </td>
-        <td width="50%" align="center">
-            <img src="portfolio.png"/>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%" align="center">
-            <a href="https://jekscripts.dev/" target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-            </a>
-            <a href="https://github.com/jekiquin/portfoliov2" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a> 
-        </td>
-        <td width="50%" align="center">
-            <a href="https://2022.jekscripts.dev/" target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-            </a>
-            <a href="https://github.com/jekiquin/portfolio" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%">
-            <p>
-                <strong>Stack:</strong> HTML, SASS, Javascript, ThreeJS, PhaserJS, Vite
-            </p>
-        </td>
-        <td width="50%">
-            <p>
-                <strong>Stack:</strong> React, SASS, Tailwind
-            </p>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%">
-            <p>
-                This is my second portfolio built in 2023. Realizing that I've always used modern frameworks in building web applications and site, I've decided to go back to the basics and build everything in vanilla HTML, CSS and JavaScript
-            </p>
-        </td>
-        <td width="50%">
-            <p>
-                This is my first portfolio built in 2022 after graduating in BrainStation.
-            </p>
+           
         </td>
     </tr>
 </table>
