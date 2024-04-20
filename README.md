@@ -166,6 +166,9 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykim7&theme=tokyonight&hide_border=false" alt="Other Stats" />
 </div>
 
+## 📝 LeetCode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ykim7)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90)
