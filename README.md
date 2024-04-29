@@ -4,6 +4,8 @@
 
 # Hello! I'm Yujin Kim!
 I'm a software engineer with a background in math tutoring. I'm used to understanding theories and concepts logically and applying them in practice. I'm interested and passionate about developing helpful software that I can use in real life.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ykimcode/)
+
 
 # About me
 
@@ -16,12 +18,6 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
     <img src="img/sing.png" alt="singing" height="300px" />
 </div>
 
-
-
-## 🌐 My Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ykimcode/)
-[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)](https://github.com/ykim7)
 
 ## 💡 Projects:
 
