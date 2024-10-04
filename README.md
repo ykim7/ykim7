@@ -26,6 +26,7 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
     <tr valign="top">
         <td width="50%" align="center">
             <h3>Seneca Community</h3>
+            <a href="https://github.com/ykim7/Grad_project_team2">link</a>
         </td>
     </tr>
     <tr valign="center">
