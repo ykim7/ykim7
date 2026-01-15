@@ -30,8 +30,8 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
     </tr>
     <tr valign="center">
         <td width="50%" align="center">
-            <img src="project/Login.png"/>
-            <img src="project/Dashboard.png"/>
+            <img src="student_management/Login.png"/>
+            <img src="student_management/Dashboard.png"/>
         </td>
     </tr>
     <tr valign="top">
