@@ -89,16 +89,3 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 - Working Knowledge: TypeScript, Python, React, Next.js, Node.js, Express.js, Docker, Vite, AWS, Git, PostgreSQL
 
 - Exposed: C, C#, Java, Flutter, MySQL, MongoDB, GraphQL, Azure, Bootstrap, Tailwind CSS, Swift, GCP, FastAPI
-
-
-
-## 📝 LeetCode Stats:
-
-<div align=center>
-    <img src="https://leetcard.jacoblin.cool/ykim7" alt="My Stats" />
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90" />
-</div>
