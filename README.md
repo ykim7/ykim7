@@ -25,6 +25,40 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">
         <td width="50%" align="center">
+            <h3>TBC Student Manager</h3>
+        </td>
+    </tr>
+    <tr valign="center">
+        <td width="50%" align="center">
+            <img src="project/Login.png"/>
+            <img src="project/Dashboard.png"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                 <strong>Stack:</strong> React, TypeScript, Vite, Tailwind CSS, Express.js, PostgreSQL (Supabase), Drizzle ORM, Supabase Auth, AWS S3, Fly.io, GitHub Actions
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                TBC Student Manager is a full-stack web application built for an education consulting agency to centralize student operations end-to-end. It streamlines student onboarding, program tracking, document management, and internal coordination by organizing key data in one place and reducing manual, error-prone workflows.
+        Designed for day-to-day use by admins and staff, the system improves visibility across student records and enables faster, more consistent processing through structured data, role-based access, and secure file handling.
+      </p>
+          <p>
+        <em>Note: All data shown in the screenshots is sample/test data for demonstration purposes.</em>
+      </p>
+    </td>
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
             <h3>Seneca Community</h3>
             <a href="https://github.com/ykim7/Grad_project_team2">link</a>
         </td>
@@ -53,19 +87,11 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
 
 ## 💻 Tech Stack:
 
-- Working Knowledge: JavaScript, TypeScript, C++, React, NextJS, NodeJs, Git, SQL, ExpressJS, CSS
+- Working Knowledge: TypeScript, Python, React, Next.js, Node.js, Express.js, Docker, Vite, AWS, Git, PostgreSQL
 
-- Exposed: Python, C, C#, Java, mySQL, MongoDB, Oracle 12c, Docker, AWS, Azure, BootStrap, Tailwind, Jotai, Swift
+- Exposed: C, C#, Java, Flutter, MySQL, MongoDB, GraphQL, Azure, Bootstrap, Tailwind CSS, Swift, GCP, FastAPI
 
 
-## 📊 GitHub Stats:
-
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=ykim7&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" alt="My Stats" />
-</div>
-<div align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykim7&theme=buefy&hide_border=false" alt="Other Stats" />
-</div>
 
 ## 📝 LeetCode Stats:
 
