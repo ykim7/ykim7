@@ -30,10 +30,8 @@ I am a software developer who enjoys puzzles and music. I love all kinds of math
     </tr>
     <tr valign="center">
         <td width="50%" align="center">
-            <div style="display:flex; justify-content:center; align-items:center; gap:16px; flex-wrap:wrap;">
-              <img src="student_management/LogIn.png" style="max-width:48%; height:auto;" />
-              <img src="student_management/Dashboard.png" style="max-width:48%; height:auto;" />
-            </div>
+          <img src="student_management/LogIn.png" style="max-width:48%; height:auto;" />
+          <img src="student_management/Dashboard.png" style="max-width:48%; height:auto;" />
         </td>
     </tr>
     <tr valign="top">
